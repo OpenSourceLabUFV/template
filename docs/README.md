@@ -35,7 +35,7 @@ Dessa forma os usuários podem copiar e colar sem ler a documentação (que é o
 Geralmente os próximos passos ensinam como instalar e configurar o projeto para uso/desenvolvimento. Execute:
 
 ```
-git clone https://github.com/OpenSourceLabUFV/template
+git clone https://github.com/OpenSourceLabUFV/template template
 ```
 
 ## 🤝 Contribua
@@ -50,6 +50,10 @@ Veja o arquivo [ROADMAP.md](ROADMAP.md) para ter uma ideia de como o projeto dev
 ## 🎫 Licença
 
 Esse projeto é licenciado nos termos da licença open-source [MIT](https://choosealicense.com/licenses/mit) e está disponível de graça.
+
+## 🧬 Changelog
+
+Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md).
 
 ## 🧪 Projetos semelhantes
 
