@@ -8,13 +8,13 @@ Coloque a descrição do projeto aqui. Geralmente essa descrição tem de duas a
 
 Aqui você pode colocar uma captura de tela do produto resultante desse projeto. Descreva também suas funcionalidades usando uma lista:
 
-* Fácil integração;
-* Poucas dependências;
-* Possui ótima documentação e testes.
+- Fácil integração.
+- Poucas dependências.
+- Possui ótima documentação e testes.
 
 ## 🚀 Começando
 
-### 1. Primeiro passo para começar
+### 1. Primeiro passo
 
 Geralmente o primeiro passo para começar é instalar dependências para rodar o projeto. Execute:
 
@@ -44,16 +44,15 @@ Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBU
 
 Lembre - se que as contribuições devem seguir nosso [Código de Conduta](CODE_OF_CONDUCT.md).
 
-Veja o arquivo [ROADMAP.md](ROADMAP.md) para ter uma ideia de como o projeto deve evoluir.
+Veja o arquivo [ROADMAP.md](ROADMAP.md) para ter uma ideia dos próximos passos do projeto.
 
+## Licença
 
-## 🎫 Licença
+Esse projeto é licenciado nos termos da licença open-source [MIT](https://choosealicense.com/licenses/mit).
 
-Esse projeto é licenciado nos termos da licença open-source [MIT](https://choosealicense.com/licenses/mit) e está disponível de graça.
-
-## 🧪 Projetos semelhantes
+## Projetos semelhantes
 
 Abaixo está uma lista de links interessantes e projetos similares:
 
-* [Projeto inspiração](https://github.com/projeto)
-* [Ferramenta semelhante](https://github.com/projeto)
+- [Projeto inspiração](https://github.com/projeto)
+- [Ferramenta semelhante](https://github.com/projeto)

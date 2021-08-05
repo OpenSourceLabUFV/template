@@ -7,14 +7,13 @@ Este arquivo fornece uma visão geral da direção que este projeto está seguin
 Nessa fase do projeto o foco é em X, Y e Z. As funcionalidades esperadas são:
 
 - Alguma coisa que o usuário consegue fazer.
-- - Descrição de uma feature.
-- - Capacidade de salvar coisas.
-- - Etc.
+- Descrição de uma feature.
+- Etc.
+
 ## [M2 - experiência do usuário](https://github.com/OpenSourceLabUFV/template/milestone/2)
 
 Nessa fase do projeto o foco é em A, B e C. As funcionalidades esperadas são:
 
 - Alguma coisa que o usuário consegue fazer.
-- - Descrição de uma feature.
-- - Capacidade de salvar coisas.
-- - Etc.
+- Descrição de uma feature.
+- Etc.
